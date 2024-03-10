@@ -1,0 +1,31 @@
+SeedID,SeedName,Genus,Species,FullScientificName
+1,Common Wheat,Triticum,Triticum aestivum,Triticum aestivum subsp. aestivum L.
+2,Maize,Zea,Zea mays,Zea mays L.
+3,Scots Pine,Pinus,Pinus sylvestris,Pinus sylvestris
+4,Norway spruce,Picea,Picea abies,Picea abies L.
+5,Indica Rice,Oryza,Oryza sativa,Oryza sativa subsp. indica
+6,Japonica Rice,Oryza,Oryza sativa,Oryza sativa Japonica
+7,Common Bean,Phaseolus,Phaseolus vulgaris,Phaseolus vulgaris
+8,Buttercup Squash,Cucurbita,Cucurbita maxima,Cucurbita maxima
+9,Korean Creeping Raspberry,Rubus,Rubus oldhamii,Rubus oldhamii Miq.
+10,Great Burnet,Sanguisorba,Sanguisorba officinalis,Sanguisorba officinalis L.
+11,Spikenard,Aralia,Aralia cordata,Aralia cordata var. continentalis (Kitag.) Y.C. Chu
+12,Korean Mint,Agastache,Agastache rugosa,Agastache rugosa (Fisch. & Mey.) Kuntze
+13,Woundwort,Solidago,Solidago virgaurea,Solidago virgaurea subsp. gigantea (Nakai) Kitam.
+14,Goat's Beard,Aruncus,Aruncus dioicus,Aruncus dioicus var. kamtschaticus (Maxim.) H. Hara
+15,Siberian Veronicastrum,Veronicastrum,Veronicastrum sibiricum,Veronicastrum sibiricum (L.) Pennell
+16,Aging Chive,Allium,Allium senescens,Allium senescens L.
+17,Stalkless-flower Eleuthero,Eleutherococcus,Eleutherococcus sessiliflorus,Eleutherococcus sessiliflorus (Rupr. & Maxim.) S.Y. Hu
+18,Toringo Crabapple,Malus,Malus sieboldii,Malus sieboldii (Regel) Rehder
+19,Wild Cabbage,Brassica,Brassica oleracea,Brassica oleracea convar. capitata var. sabauda L.
+20,Cucumber,Cucumis,Cucumis sativus,Cucumis sativus L.
+21,Head Lettuce,Lacuta,Lactuca sativa,Lactuca sativa var. capitata L.
+22,Leaf Lettuce,Lacuta,Lactuca sativa,Lactuca sativa var. crispa L.
+23,Tomato,Solanum,Solanum lycopersicum,Solanum lycopersicum L.
+24,Spinach,Spinacia,Spinacia oleracea,Spinacia oleracea L.
+25,Italian Corn-salad,Valerianella,Valerianella eriocarpa,Valerianella eriocarpa Desv.
+26,Common Corn-salad,Valerianella,Valerianella locusta,Valerianella locusta (L.) Laterr.
+27,European Wild Pear,Pyrus,Pyrus pyraster,Pyrus pyraster (L.) Burgsd.
+28,Crab Apple,Malus,Malus sylvestris,Malus sylvestris (L.) Mill.
+29,Wild Strawberry,Fragaria,Fragaria vesca,Fragaria vesca L.
+30,Alpine Strawberry,Fragaria,Fragaria vesca,Fragaria vesca f. semperflorens
